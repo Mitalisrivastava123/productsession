@@ -1,4 +1,5 @@
 <?php 
+// products array
 $products = array(
 array("id"=>101,"name"=>"Basket Ball","image"=>"./images/basketball.png","price"=>150 ,"quantity"=> 1),
 array("id"=>102,"name"=>"Football","image"=>"./images/football.png","price"=>120, "quantity"=> 1),
